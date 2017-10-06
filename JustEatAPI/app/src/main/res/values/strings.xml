@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JustEatAPI</string>
+    <string name="title_activity_restaurant_markers">Map</string>
+</resources>
